@@ -1,7 +1,7 @@
 @extends('frontend.layout.dashformate')
 
 @section('body')
-    <h3 align="center">Blood receiver Information</h3>
+    <h3 align="center">Blood Bag Information</h3>
 
     <div class="container">
         <div class="row justify-content-center">
